@@ -1,0 +1,13 @@
+C:\Users\Fenrar Muad'dib\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.csprojAssemblyReference.cache
+C:\Users\Fenrar Muad'dib\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.AssemblyInfoInputs.cache
+C:\Users\Fenrar Muad'dib\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.AssemblyInfo.cs
+C:\Users\Fenrar Muad'dib\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.csproj.CoreCompileInputs.cache
+C:\Users\Fenrar Muad'dib\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.exe
+C:\Users\Fenrar Muad'dib\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.deps.json
+C:\Users\Fenrar Muad'dib\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.runtimeconfig.json
+C:\Users\Fenrar Muad'dib\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.runtimeconfig.dev.json
+C:\Users\Fenrar Muad'dib\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.dll
+C:\Users\Fenrar Muad'dib\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.pdb
+C:\Users\Fenrar Muad'dib\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.dll
+C:\Users\Fenrar Muad'dib\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.pdb
+C:\Users\Fenrar Muad'dib\source\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.genruntimeconfig.cache
